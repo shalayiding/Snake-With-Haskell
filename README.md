@@ -1,7 +1,4 @@
 # Snake With Haskell
-
-
-## Demo
 ![](docs/snake.gif)
 
 ## How to Play the Game
